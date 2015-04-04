@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-8a696581fe6f6fc962929dcfe3f7157ce2ac742e.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-e3252a08de7d0c7ef3781dbad184a020b770dd05.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-be27441332285a73e4e060e489b482d6bd26c4e3.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-9709f86d457d5d4d4f3bb42a153cff2e4fabbc69.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-9afc6eda2025f295cfc9209257c6f2897faa3040.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-916c129c00b3f80e2dbe8f21c6551de26019eb28.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\M6\aChartAndroidlib\unspecified\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-483509cf9e83919b32500af8c9eba5c88dc4f7f3.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.awareframework\aware-core\3.3.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fd6691315c1289c0c36f8e512f1bf80e3d0124b">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-2efe99b89949b7cbb4010f3c06c7207375cf176c.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.awareframework\aware-core\3.3.2\libs\zbar.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\zbar-b9f7448ab1b180bb6a7e7f42c70c6681c0a4c14f.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-85aa320524d57e6c02b18e951ef5e8daa8708cac.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-c59480cf9f6530dfab313237b427a8524fc5223e.jar" />
+    </item>
+    <item
+        jar="F:\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-44a39a4120dd04a43b003502c7c79198efa72af8.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-8ebba5dcc505eeaf08fea17fa4b34e0dc219cfb3.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-5c957a887b855abcf3e7b64efde59e6c320edcc6.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-48763b6fd81d0039a5dc907b88727b70fa4b1ee1.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-dfdd5e8211ed5c8be66a411ca0aa3cfd02edaed5.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-19269ef2403f6c237722ea2c0b00595d5636b4e9.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-d809e2a32e218411256af110acaa63f26c6b1e9b.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-1f8c8fc7b802a30654a50255accfd7bc908bf9ff.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.awareframework\aware-core\3.3.2\libs\mqtt-client-0.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02315d1759d01e52495e040e6e538aaa2e91c7f6">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\mqtt-client-0.4.0-62bf4d8d539be5117a649e4540d4182bf9b81150.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-75d6a0f94684c3a166d4afdce22e03740aaf5bf5.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5a4c6fbffce47cfa651359ba684951303b9243b3.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-b57fefafc71f9f17c7aab939dd772cf25a7bdb67.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-c1436be6eb73d3e01848a178f7912e75b7cdb5b6.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-3dd9e198583bbe2e0c208d897a7931c39a26b518.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-99a24c1f146f9b9897ff7972ffe35e711659a8ee.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-d681bc4bc6962c060a7626dfb608d4305bb0b612.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\M6\aChartAndroidlib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f5e82b18c96f21bbbb46a2ec696d08ac80ecccb">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-0406df2561b40926080406fc669963c570d4256c.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\M6\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c9e0c6fc22b22b96d0db564cf073ab6f288bb758">
+        <dex dex="E:\WWWWWWWWW\M6\app\build\intermediates\pre-dexed\debug\classes-c4f16b3ea532b5f44a1cc76b97f99fd623be1c9b.jar" />
+    </item>
+
+</items>
