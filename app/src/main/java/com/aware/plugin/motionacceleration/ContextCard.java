@@ -65,7 +65,7 @@ public class ContextCard implements IContextCard {
 
         return card;
     }
-    private static GraphicalView drawGraph( Context context ) {
+    private static GraphicalView drawGraph(Context context ) {
 
         GraphicalView mChart;
         long delta_time = System.currentTimeMillis()-(1 * 60 * 1000);
@@ -73,9 +73,9 @@ public class ContextCard implements IContextCard {
         Cursor latest = context.getContentResolver().query(MotionAcceleration_Data.CONTENT_URI, null, MotionAcceleration_Data.TIMESTAMP + " > " + delta_time, null, MotionAcceleration_Data.TIMESTAMP + " ASC");
         if (latest != null && latest.moveToFirst()) {
             do {
-                double sum = latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_0)*latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_0);
-                sum = sum + latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_1)*latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_1);
-                sum = sum + latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_2)*latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_2);
+                double sum = latest.getDouble(latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_0))*latest.getDouble(latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_0));
+                sum = sum + latest.getDouble(latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_1))*latest.getDouble(latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_1));
+                sum = sum + latest.getDouble(latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_2))*latest.getDouble(latest.getColumnIndex(MotionAcceleration_Data.A_VALUES_2));
                 sum = Math.sqrt(sum);
                 frequency_series.add(latest.getPosition(), sum);
             } while(latest.moveToNext() );

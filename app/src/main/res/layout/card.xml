@@ -1,45 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:id="@+id/context_card">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="1"
         android:id="@+id/a_0"
-        android:textColor="#000"/>
+        android:textColor="#b53e3ee8"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Text"
-        android:id="@+id/a_1" />
+        android:id="@+id/a_1"
+        android:textColor="#b53e3ee8" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Text"
-        android:id="@+id/a_2" />
+        android:id="@+id/a_2"
+        android:textColor="#b53e3ee8" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Text"
-        android:id="@+id/g_0" />
+        android:id="@+id/g_0"
+        android:textColor="#b53e3ee8" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Text"
-        android:id="@+id/g_1" />
+        android:id="@+id/g_1"
+        android:textColor="#b53e3ee8" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Text"
-        android:id="@+id/g_2" />
+        android:id="@+id/g_2"
+        android:textColor="#b53e3ee8" />
 
     <LinearLayout
         android:orientation="vertical"

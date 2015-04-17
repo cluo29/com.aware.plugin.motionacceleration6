@@ -34,15 +34,20 @@ public class Plugin extends Aware_Plugin {
                     a_1 = Acceleration.getDouble(Acceleration.getColumnIndex(Accelerometer_Data.VALUES_1));
                     a_2 = Acceleration.getDouble(Acceleration.getColumnIndex(Accelerometer_Data.VALUES_2));
                 }
-                if( Acceleration != null && ! Acceleration.isClosed() ) Acceleration.close();
+                if( Acceleration != null && ! Acceleration.isClosed() ) {
+                    Acceleration.close();
+                }
                 Cursor gyro = getApplicationContext().getContentResolver().query(Gyroscope_Data.CONTENT_URI, null, null, null, Gyroscope_Data.TIMESTAMP + " DESC LIMIT 1");
+
                 if(gyro!=null && gyro.moveToFirst()){
 
                     g_0 = gyro.getDouble(gyro.getColumnIndex(Gyroscope_Data.VALUES_0));
                     g_1 = gyro.getDouble(gyro.getColumnIndex(Gyroscope_Data.VALUES_1));
                     g_2 = gyro.getDouble(gyro.getColumnIndex(Gyroscope_Data.VALUES_2));
                 }
-                if( gyro != null && ! gyro.isClosed() ) gyro.close();
+                if( gyro != null && ! gyro.isClosed() ) {
+                    gyro.close();
+                }
                 ContentValues data = new ContentValues();
                 //require Provider.java here
                 data.put(MotionAcceleration_Data.TIMESTAMP, System.currentTimeMillis());
